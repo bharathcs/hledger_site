@@ -18,7 +18,8 @@ Some ways:
   which you can include when needed (eg, add `-f forecast.journal`).
 
 - Enter periodic transaction rules describing future transactions 
-  (recurring or non-recurring), and activate the forecast with `--auto`.
+  (recurring or non-recurring), and generate transactions for any period with
+  [`--forecast`](https://hledger.org/1.30/hledger.html#--forecast).
 
 - [Budgeting and forecasting (2018) > Forecasting](budgeting-and-forecasting.md) -
   reusing a budget's periodic transactions to generate a forecast.
